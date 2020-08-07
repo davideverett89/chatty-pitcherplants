@@ -4,7 +4,6 @@ import Darkmode from 'darkmode-js';
 import displayMessage from './components/displayMessages/displayMessages';
 import userRadios from './components/userRadios';
 
-
 const buttonEvents = () => {
   const sendBtn = document.getElementById('send-button');
   const clearBtn = document.getElementById('clear-button');
