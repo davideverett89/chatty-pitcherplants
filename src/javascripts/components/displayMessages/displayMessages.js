@@ -73,7 +73,6 @@ const clearMessages = () => {
   }
 };
 
-
 export default {
   addMessage,
   displayAllMessages,
